@@ -7,4 +7,4 @@ It installs few monitoring tools and software to fix the thermals (htop, lm_sens
 
 The script disables turbo, due to it constantly running at high clock speed in idle.
 
-It's nothing advanced, but it works. Currenly Arch only.
+It's nothing advanced, but it works. Currenly Arch and Debian only.
