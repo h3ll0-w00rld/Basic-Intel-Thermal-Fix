@@ -1,5 +1,5 @@
 # Basic-Intel-Thermal-Fix
-Basic bash script (Arch) for fixing Intel's God awful thermal issue on 5th generation and further.
+Basic bash script (Arch) for fixing Intel's God awful thermal issue on 5th generation MOBILE CPUs and further.
 
 
 The script has been quickly made for sake of my sanity, meant to fix terrible intel mobile CPU thermal issues.
